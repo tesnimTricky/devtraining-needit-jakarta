@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="email_client=true,all_tables.query_hints=true,hasWorkflow=true,live_feed=true" audit="true" extends="task" label="Incident" max_length="40" name="incident" sizeclass="56" text_index="true" type="collection">
+        <element label="New Audio" max_length="40" name="x_58872_needit_u_audio_1" type="audio"/>
+    </element>
+</database>
